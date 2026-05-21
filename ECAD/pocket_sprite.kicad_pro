@@ -554,7 +554,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../:boards/pocket_sprite/",
+      "plot": "../Outputs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
