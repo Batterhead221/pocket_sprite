@@ -16,17 +16,6 @@ POCKET_SPRITE is a compact original hardware project built around the Seeed Stud
 
 In progress. Breadboard input/display testing completed before the PCB version. Current hardware direction uses the XIAO ESP32-S3, joystick, 1.8-inch SPI TFT, A button, TFT backlight control, buzzer output, battery input through the XIAO BAT pads, and a switched 3.3V rail for game hardware.
 
-## System Role
-
-```text
-User input
-    ↓ joystick / A button
-POCKET_SPRITE / XIAO ESP32-S3
-    ↓ SPI
-1.8-inch ST7735 TFT display
-    ↓
-built-in mini games / pixel graphics / buzzer feedback
-```
 
 ## Features
 
@@ -212,4 +201,4 @@ Outputs/
 
 POCKET_SPRITE is a low-voltage handheld electronics project. Verify battery polarity, switched power behavior, buzzer drive current, and display wiring before portable use.
 
-Designed & engineered by Brandon Shelly
+Designed & Engineered by Brandon Shelly
